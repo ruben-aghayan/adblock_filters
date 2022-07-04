@@ -1,6 +1,13 @@
+! Fandom List
+! Desktop
 fandom.com##.page__right-rail
 fandom.com##.mcf-wrapper
 fandom.com##.global-navigation
 fandom.com###WikiaBar
 fandom.com##.global-footer
 fandom.com##.loaded.DiscordIntegrator
+
+! Mobile
+fandom.com##.pathfinder-wrapper
+fandom.com###article-featured-video-container
+fandom.com##.render-wiki-recommendations
