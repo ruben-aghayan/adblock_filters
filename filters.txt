@@ -1,0 +1,6 @@
+fandom.com##.page__right-rail
+fandom.com##.mcf-wrapper
+fandom.com##.global-navigation
+fandom.com###WikiaBar
+fandom.com##.global-footer
+fandom.com##.loaded.DiscordIntegrator
