@@ -1,0 +1,2 @@
+! shelves in serp not showing search results
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope
